@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480950062 source:c:\c programming\week 11\week11_question5\main.c
+	<stdio.h>
+	<stdlib.h>
+
