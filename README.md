@@ -1,2 +1,2 @@
 # MiscAssignLabWork
-This repository contains Assignments and Lab Work that I've worked on during my college course.
+This repository contains Assignments and Lab Work that I've worked whilst studying Computer Science (Infrastructure) in TU Dublin.
